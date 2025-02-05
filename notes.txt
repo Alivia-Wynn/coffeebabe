@@ -1,0 +1,6 @@
+
+##Opening up a shell in to run query's 
+(myvenv) python manage.py shell
+
+
+This is exactly what views are supposed to do: connect models and templates.
